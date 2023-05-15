@@ -1,1 +1,1 @@
-web cloaker for jellytruck (search no work)
+web cloaker for updated 3hk0 (search DOES work)
