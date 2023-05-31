@@ -1,1 +1,1 @@
-web cloaker for updated 3hk0 (search DOES work)
+web cloaker for goflogames (search DOES work)
